@@ -2,7 +2,7 @@
 
 ## Pourquoi j'ai choisi ce sujet
 
-Depuis que je suis en M2, j'essaie de travailler sur des projets qui ont un lien avec des trucs concrets de la vie quotidienne. La météo, c'est quelque chose que tout le monde consulte plusieurs fois par jour, mais personne ne se pose vraiment la question de savoir à quel point on peut lui faire confiance.
+Depuis que je suis en M1, j'essaie de travailler sur des projets qui ont un lien avec des trucs concrets de la vie quotidienne. La météo, c'est quelque chose que tout le monde consulte plusieurs fois par jour, mais personne ne se pose vraiment la question de savoir à quel point on peut lui faire confiance.
 
 J'avais remarqué que les prévisions à 5 jours semblaient souvent fausses — pas d'une façon dramatique, mais suffisamment pour que ça change un plan. J'ai voulu mettre un chiffre sur cette intuition.
 
