@@ -1,0 +1,9 @@
+ville,pays,mae,rmse,bias,observations,reliability_index,score
+Lyon,France,1.04,1.33,-0.34,30,32.77,65.26
+Paris,France,1.24,1.57,0.14,30,31.62,60.86
+Toulouse,France,1.3,1.59,0.19,30,30.44,59.18
+Nantes,France,1.31,1.71,-0.28,30,29.07,57.08
+Strasbourg,France,1.43,1.77,0.18,30,28.61,55.12
+Marseille,France,1.56,1.91,0.1,30,27.66,52.02
+Lille,France,1.36,1.88,0.7,30,24.99,51.12
+Nice,France,1.55,1.98,0.24,30,26.48,50.38
