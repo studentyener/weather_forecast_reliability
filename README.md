@@ -128,5 +128,5 @@ Voir `requirements.txt` pour les versions exactes.
 
 ## Auteur
 
-YENER Dogukan — M2 DS2E, Université de Strasbourg, 2025–2026  
+YENER Dogukan — M1 DS2E, Université de Strasbourg, 2025–2026  
 GitHub : [github.com/studentyener](https://github.com/studentyener)
